@@ -1,6 +1,13 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Minimal Starter: DEMO AUTHENTICATION IN NUXT 3
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
+
+## INFO:
+This is a demo authentication in Nuxt 3 using @sidebase nuxtAuth [@sidebase/NuxtAuth](https://sidebase.io/nuxt-auth/getting-started), with MongoDb and Jwt
+
+The initial App has three pages ie index, login, and register in the sserver folder there is a api/auth folder
+with register.post.ts endpoint at a catch all file ie [...].ts
 
 ## Setup
 
@@ -73,3 +80,5 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
