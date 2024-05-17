@@ -9,6 +9,8 @@ This is a demo authentication in Nuxt 3 using @sidebase nuxtAuth [@sidebase/Nuxt
 The initial App has three pages ie index, login, and register in the sserver folder there is a api/auth folder
 with register.post.ts endpoint at a catch all file ie [...].ts
 
+In the models folder user.ts is a model for creating a user in Mongo DB
+
 ## Setup
 
 Make sure to install the dependencies:
